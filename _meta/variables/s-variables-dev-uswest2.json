@@ -1,0 +1,6 @@
+{
+  "region": "us-west-2",
+  "resourcesStackName": "serverless-starter-dev-r",
+  "iamRoleArnLambda": "arn:aws:iam::451167508006:role/serverless-starter-dev-r-IamRoleLambda-KSDMWKU5M5U6",
+  "apiGatewayApi": "serverless-starter"
+}
