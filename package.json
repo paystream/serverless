@@ -12,6 +12,8 @@
     "url": "git://github.com/"
   },
   "dependencies": {
+    "dotenv": "^2.0.0",
+    "dynasty": "^0.2.4",
     "serverless-optimizer-plugin": "^1.0.0"
   },
   "scripts": {},
