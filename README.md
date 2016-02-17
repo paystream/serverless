@@ -6,6 +6,9 @@ Btw, this is just a serverless starter.
 
 #Endpoints
 
+`/restApi/*`
+Created by the boilerplate - remained for testing please *ignore*
+
 
 #Goal
 
