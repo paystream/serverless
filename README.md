@@ -11,7 +11,7 @@ Created by the boilerplate - remained for testing please *ignore*
 
 
 #Goal
-
+This would be transfered soon to a better API. This is just a test api. Not really a full working application.
 
 #Licenses
 
